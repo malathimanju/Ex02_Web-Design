@@ -19,9 +19,31 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
+<body bgcolor="pink">
+  <h1> courses offered</h1>
+
+<ol>
+     <li>cse</li>
+     <li>EEE</li>
+     <li>AGRI ENGINEERING</li>
+</ol>
+<ul>
+   <li>AI-ML</li>
+   <li>AIDS</li>
+   <li>civil engineering</li>
+   </ul>
+</body>
+</html>
+```
 
 
 ## OUTPUT
+![experiment 2](https://github.com/malathimanju/Ex02_Web-Design/assets/165985843/89dcf5fd-ee5e-4370-acec-77bc1b9b2353)
+
+
+
 
 
 ## RESULT
